@@ -1,0 +1,1 @@
+# Difinisi Persamaan Linier
